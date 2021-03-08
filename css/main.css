@@ -1,0 +1,29 @@
+html {
+  background-color: limegreen;
+  background-color: #000000;
+  font-family: sans-serif;
+}
+
+h1, p {
+  color: white;
+}
+
+p {
+  background-color: darkgreen;
+}
+
+.veloci{
+  background-color: hotpink;
+}
+
+ul li:first-child {
+  background-color: purple;
+}
+
+ul li:last-child {
+  background-color: blue;
+}
+
+.vovo li:nth-child(3) {
+  background-color: orange;
+}
